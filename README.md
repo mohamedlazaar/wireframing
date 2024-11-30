@@ -55,3 +55,41 @@ High-fidelity wireframes are more detailed and refined versions, often closer to
 [Check out the Project on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=KiRDVmZciChLLSeC-1)  
 
 This is an example of a high-fidelity wireframe because the design includes more details about layouts, content placement, and font choices, effectively making it look closer to the final design. However, it may lack full styling and animations.  
+
+---
+
+## Popular Wireframing Tools  
+
+There are several tools available for creating wireframes, each catering to different design needs and preferences. Below are some of the most popular wireframing tools:  
+
+### 1. Figma  
+**Figma** is a cloud-based design tool that has gained popularity for its versatility, collaboration features, and ease of use. It is highly recommended for wireframing due to the following reasons:  
+
+#### Features:  
+- **Collaborative Environment**: Enables real-time collaboration, allowing multiple team members to work on the same project simultaneously.  
+- **Cross-Platform Access**: As a web-based tool, it works on any platform with internet access, including Windows, macOS, and Linux.  
+- **Components and Libraries**: Offers reusable components and design libraries to speed up the design process.  
+- **Prototyping Tools**: Includes built-in prototyping features to create interactive mockups directly within the tool.  
+- **Version Control**: Keeps track of design changes with version history.  
+
+#### Why Figma is Useful for Wireframing:  
+Figma’s intuitive interface and drag-and-drop functionality make it easy for beginners to start creating wireframes. The ability to collaborate in real time ensures that designers, developers, and stakeholders remain aligned throughout the design process.  
+
+### 2. Adobe XD  
+A design and prototyping tool known for its seamless integration with other Adobe products and its ability to create interactive prototypes.  
+
+### 3. Sketch  
+A vector-based design tool commonly used by macOS users. It’s known for its simplicity and extensive plugin ecosystem.  
+
+### 4. Balsamiq  
+A tool focused on low-fidelity wireframing, designed to quickly create simple wireframes with a sketch-like aesthetic.  
+
+### 5. Axure RP  
+A professional-grade tool used for creating detailed wireframes and prototypes with advanced interactivity.  
+
+### 6. InVision  
+Primarily a prototyping tool, but it also offers features for wireframing and design collaboration.  
+
+---  
+**Choosing the Right Tool:**  
+The choice of a wireframing tool depends on the project's complexity, the team's needs, and personal preferences. However, Figma stands out as a versatile option suitable for both simple and complex wireframing tasks.
