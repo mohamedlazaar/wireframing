@@ -36,5 +36,22 @@ Content placement indicates where text, images, and other content will be locate
 Functionality outlines interactive elements and features that enhance the user experience. This could include forms, sliders, or dynamic content.  
 - **Example**: A login page wireframe might include input fields for a username and password, along with a "Login" button and a "Forgot Password" link.  
 
-These elements ensure the wireframe provides a clear, organized, and actionable guide for the design and development of a project.  
+---
 
+## Wireframing Types  
+
+### 1. Low-Fidelity Wireframes  
+Low-fidelity wireframes are simple sketches or basic digital layouts focusing on the overall structure and functionality without detailed design.  
+
+### 2. High-Fidelity Wireframes  
+High-fidelity wireframes are more detailed and refined versions, often closer to the final design. These include more specific layout and design elements, such as:  
+- Logos  
+- Specific images  
+- Realistic content instead of placeholders  
+- Font choices and precise spacing  
+
+**Example:**  
+
+[Check out the Project on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=KiRDVmZciChLLSeC-1)  
+
+This is an example of a high-fidelity wireframe because the design includes more details about layouts, content placement, and font choices, effectively making it look closer to the final design. However, it may lack full styling and animations.  
